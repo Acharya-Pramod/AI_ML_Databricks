@@ -1,7 +1,3 @@
-Absolutely. Below is a detailed **technical documentation** of your complete RAG pipeline implemented in Databricks. It explains every step from PDF ingestion to final LLM response in paragraph format, suitable for notes, interviews, presentations, or project documentation.
-
----
-
 # Enterprise Retrieval-Augmented Generation (RAG) Pipeline Using Databricks, LangChain, ChromaDB, Hugging Face Embeddings, and Groq LLM
 
 ## Introduction
